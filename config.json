@@ -1,0 +1,9 @@
+{
+    "token":"<your token>",
+    "host":{
+        "ip":"<api_server>",
+        "port":9020,
+        "path":"/api/client/websocket"
+    },
+    "sw_port":3897
+}
